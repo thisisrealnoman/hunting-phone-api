@@ -49,5 +49,5 @@ const displayPhones = phones => {
 
 loadPhone();
 
-// error
+// error solved
 
