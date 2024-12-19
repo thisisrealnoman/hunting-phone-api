@@ -51,8 +51,7 @@ const displayPhones = phones => {
 }
 
 // handle search button
-// handle search button
-// handle search button
+
 
 const handleSearch = () =>{
     const searchField = document.getElementById('search-field');
